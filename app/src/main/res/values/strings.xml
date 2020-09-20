@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Навигация в приложении</string>
+    <string name="main_menu_settings">Настройки</string>
+    <string name="main_menu_note">Записная книжка</string>
+    <string name="note_text">Заметка</string>
+    <string name="save_button">Сохранить</string>
+    <string name="save_info">Данные сохранены</string>
+</resources>
