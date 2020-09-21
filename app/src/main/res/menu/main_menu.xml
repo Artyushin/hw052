@@ -18,4 +18,20 @@
         android:title="@string/main_menu_note"
         tools:ignore="MenuTitle" />
 
+    <item
+        android:id="@+id/main_menu_login"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        android:title="@string/main_menu_login"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/main_menu_payment"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        android:title="@string/main_menu_payment"
+        tools:ignore="MenuTitle" />
+
 </menu>
